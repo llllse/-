@@ -1,27 +1,5 @@
 [
     {
-        "iconUrl": "https://bollyflix-cdn.store/wp-content/uploads/2023/05/Bollyflix-movies.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 23047,
-        "status": 1,
-        "language": "hi",
-        "authors": [
-            "megix"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "AsianDrama",
-            "Anime"
-        ],
-        "version": 17,
-        "internalName": "Bollyflix",
-        "description": "Movies and Series upto 4K",
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/Bollyflix.cs3",
-        "name": "Bollyflix"
-    },
-    {
         "iconUrl": "http://luxecinema.fans/wp-content/uploads/2023/12/fresh-logo-dark-theme-.jpg",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
@@ -36,10 +14,10 @@
             "Movie"
         ],
         "version": 20,
-        "internalName": "Cinemaluxe",
+        "internalName": "Server 1",
         "description": "Movies and Series upto 4K",
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/Cinemaluxe.cs3",
-        "name": "Cinemaluxe"
+        "name": "Server 1"
     },
     {
         "iconUrl": "https://us.123rf.com/450wm/mrshamsjaman/mrshamsjaman2008/mrshamsjaman200800943/154338064-initial-letter-cs-logo-or-sc-logo-vector-design-template.jpg",
@@ -62,27 +40,7 @@
         "internalName": "CineStream",
         "description": "One stop solution for Movies, Series, Anime, Livetv, AsianDrama and Torrents",
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
-        "name": "CineStream"
-    },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/master/CinevezProvider/icon.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 11550,
-        "status": 1,
-        "language": "hi",
-        "authors": [
-            "megix"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 6,
-        "internalName": "CinevezProvider",
-        "description": "This website support Hindi/English/Kannada/Malayalam/Tamil/Telugu",
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CinevezProvider.cs3",
-        "name": "CinevezProvider"
+        "name": "Server 2"
     },
     {
         "iconUrl": "https://cdn-icons-png.flaticon.com/512/4961/4961639.png",
@@ -106,45 +64,6 @@
         "name": "Extractors"
     },
     {
-        "iconUrl": "https://www.full4movies.delivery/wp-content/uploads/2023/12/cropped-cropped-admin-ajax-1.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 12292,
-        "status": 0,
-        "language": "hi",
-        "authors": [
-            "megix"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 16,
-        "internalName": "Full4Movies",
-        "description": "Contains Indian Movies and TV Series upto 1080p",
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/Full4Movies.cs3",
-        "name": "Full4Movies"
-    },
-    {
-        "iconUrl": "https://cdn.jsdelivr.net/npm/@googledrive/index@2.0.20/images/favicon.ico",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 15805,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "Horis"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 1,
-        "internalName": "GDIndex",
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/GDIndex.cs3",
-        "name": "GDIndex"
-    },
-    {
         "iconUrl": "https://i.imgur.com/9bGkGMi.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
@@ -164,7 +83,7 @@
         "internalName": "MoviesDrive",
         "description": "High Quality Movies and TV Shows",
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/MoviesDrive.cs3",
-        "name": "MoviesDrive"
+        "name": "Server 3"
     },
     {
         "iconUrl": "https://moviesmod.how/wp-content/uploads/2022/12/moviesmodnew-Custom.png",
@@ -268,5 +187,27 @@
         "description": "High Quality Movie and TV Series",
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/World4uFree.cs3",
         "name": "World4uFree"
-    }
+    },    {
+        "iconUrl": "https://cdn.discordapp.com/attachments/1109266606292488297/1193122096159674448/2-modified.png?ex=65ec2a0a&is=65d9b50a&hm=f1e0b0165e71101e5440b47592d9e15727a6c00cdeb3512108067bfbdbef1af7&",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "fileSize": 275303,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Hexated",
+            "Sora"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "version": 228,
+        "internalName": "Hollywood",
+        "description": "#1 best extention based on MultiAPI",
+        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/SoraStream.cs3",
+        "name": "SoraStream"
+    },
 ]
