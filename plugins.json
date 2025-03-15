@@ -161,10 +161,10 @@
             "Anime"
         ],
         "version": 15,
-        "internalName": "MoviesDrive",
+        "internalName": "Server 1",
         "description": "High Quality Movies and TV Shows",
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/MoviesDrive.cs3",
-        "name": "MoviesDrive"
+        "url": "https://raw.githubusercontent.com/missionapp5000/plugins/refs/heads/main/MoviesDrive%20Server%201.cs3",
+        "name": "Server 1"
     },
     {
         "iconUrl": "https://moviesmod.how/wp-content/uploads/2022/12/moviesmodnew-Custom.png",
