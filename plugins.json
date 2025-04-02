@@ -17,10 +17,10 @@
             "Movie"
         ],
         "version": 228,
-        "internalName": "SoraStream",
+        "internalName": "Server Sora",
         "description": "#1 best extention based on MultiAPI",
         "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/SoraStream.cs3",
-        "name": "SoraStream"
+        "name": "Server Sora"
     },
     
     
@@ -41,10 +41,10 @@
             "Anime"
         ],
         "version": 17,
-        "internalName": "BollyFlix",
+        "internalName": "Server Bolly",
         "description": "Movies and Series upto 4K",
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/Bollyflix.cs3",
-        "name": "BollyFlix"
+        "name": "Server Bolly"
     },
     {
         "iconUrl": "http://luxecinema.fans/wp-content/uploads/2023/12/fresh-logo-dark-theme-.jpg",
@@ -84,10 +84,10 @@
             "Live"
         ],
         "version": 95,
-        "internalName": "CineStream",
+        "internalName": "Server Cine",
         "description": "One stop solution for Movies, Series, Anime, Livetv, AsianDrama and Torrents",
         "url": "https://raw.githubusercontent.com/missionapp5000/plugins/refs/heads/main/CineStream.cs3",
-        "name": "CineStream"
+        "name": "Server Cine"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/master/CinevezProvider/icon.png",
