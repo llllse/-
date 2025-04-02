@@ -17,10 +17,10 @@
             "Movie"
         ],
         "version": 228,
-        "internalName": "Server Sora",
+        "internalName": "SoraStream",
         "description": "#1 best extention based on MultiAPI",
         "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/SoraStream.cs3",
-        "name": "Server Sora"
+        "name": "SoraStream"
     },
     
     
@@ -41,10 +41,10 @@
             "Anime"
         ],
         "version": 17,
-        "internalName": "Server Bolly",
+        "internalName": "BollyFlix",
         "description": "Movies and Series upto 4K",
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/Bollyflix.cs3",
-        "name": "Server Bolly"
+        "name": "BollyFlix"
     },
     {
         "iconUrl": "http://luxecinema.fans/wp-content/uploads/2023/12/fresh-logo-dark-theme-.jpg",
@@ -84,10 +84,10 @@
             "Live"
         ],
         "version": 95,
-        "internalName": "Server Cine",
+        "internalName": "CineStream",
         "description": "One stop solution for Movies, Series, Anime, Livetv, AsianDrama and Torrents",
         "url": "https://raw.githubusercontent.com/missionapp5000/plugins/refs/heads/main/CineStream.cs3",
-        "name": "Server Cine"
+        "name": "CineStream"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/master/CinevezProvider/icon.png",
@@ -294,6 +294,27 @@
         "description": "Includes: Watchomovies(NS*W), Max resolution is 720p in both extensions.",
         "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/YomoviesProvider.cs3",
         "name": "YomoviesProvider"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/AllMovieLandProvider/icon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/LikDev-256/likdev256-tamil-providers",
+        "fileSize": 27420,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "LikDev-256"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Cartoon"
+        ],
+        "version": 12,
+        "internalName": "AllMovieLandProvider",
+        "description": "Indian MultiLanguage Provider (Mostly Hindi)",
+        "url": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/builds/AllMovieLandProvider.cs3",
+        "name": "AllMovieLandProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=ww1.cinevez.mx&sz=%size%",
