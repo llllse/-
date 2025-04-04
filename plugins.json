@@ -43,7 +43,7 @@
         "version": 17,
         "internalName": "BollyFlix",
         "description": "Movies and Series upto 4K",
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/Bollyflix.cs3",
+        "url": "https://raw.githubusercontent.com/missionapp5000/customplugins/refs/heads/main/UHDmoviesProvider-debug.cs3",
         "name": "BollyFlix"
     },
     {
@@ -63,7 +63,7 @@
         "version": 20,
         "internalName": "Cinemaluxe",
         "description": "Movies and Series upto 4K",
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/Cinemaluxe.cs3",
+        "url": "https://raw.githubusercontent.com/missionapp5000/customplugins/refs/heads/main/OnlineMoviesHinditProvider.cs3",
         "name": "Cinemaluxe"
     },
     {
@@ -86,7 +86,7 @@
         "version": 95,
         "internalName": "CineStream",
         "description": "One stop solution for Movies, Series, Anime, Livetv, AsianDrama and Torrents",
-        "url": "https://raw.githubusercontent.com/missionapp5000/plugins/refs/heads/main/CineStream.cs3",
+        "url": "https://raw.githubusercontent.com/missionapp5000/customplugins/refs/heads/main/CineStream.cs3",
         "name": "CineStream"
     },
     {
@@ -106,7 +106,7 @@
         "version": 6,
         "internalName": "CinevezProvider",
         "description": "This website support Hindi/English/Kannada/Malayalam/Tamil/Telugu",
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CinevezProvider.cs3",
+        "url": "https://raw.githubusercontent.com/missionapp5000/customplugins/refs/heads/main/NetflixMirrorProvider.cs3",
         "name": "CinevezProvider"
     },
     {
@@ -149,7 +149,7 @@
         "version": 15,
         "internalName": "MoviesDrive",
         "description": "High Quality Movies and TV Shows",
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/MoviesDrive.cs3",
+        "url": "https://raw.githubusercontent.com/missionapp5000/customplugins/refs/heads/main/MoviesDrive.cs3",
         "name": "MoviesDrive"
     },
     {
@@ -170,7 +170,7 @@
         "version": 20,
         "internalName": "Moviesmod",
         "description": "Includes Topmovies",
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/Moviesmod.cs3",
+        "url": "https://raw.githubusercontent.com/missionapp5000/customplugins/refs/heads/main/Moviesmod.cs3",
         "name": "Moviesmod"
     },
     {
@@ -190,7 +190,7 @@
         "version": 16,
         "internalName": "NetflixMirrorProvider",
         "description": "Netflix, PrimeVideo Content in Multiple Languages",
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/NetflixMirrorProvider.cs3",
+        "url": "https://raw.githubusercontent.com/missionapp5000/customplugins/refs/heads/main/MPlayerProvider-debug.cs3",
         "name": "NetflixMirrorProvider"
     },
     {
@@ -210,7 +210,7 @@
         "version": 4,
         "internalName": "OnlineMoviesHinditProvider",
         "description": "Use VPN",
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/OnlineMoviesHinditProvider.cs3",
+        "url": "https://raw.githubusercontent.com/missionapp5000/customplugins/refs/heads/main/BanglaPlex-debug.cs3",
         "name": "OnlineMoviesHinditProvider"
     },
     {
@@ -232,168 +232,7 @@
         "version": 57,
         "internalName": "VegaMovies",
         "description": "Includes LuxMovies, Rogmovies",
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/VegaMovies.cs3",
+        "url": "https://raw.githubusercontent.com/missionapp5000/customplugins/refs/heads/main/AllMovieLandProvider-debug.cs3",
         "name": "VegaMovies"
-    },
-    {
-        "iconUrl": "https://world4ufree.capetown/wp-content/uploads/2021/01/world4ufree-Logo-1.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 24270,
-        "status": 1,
-        "language": "hi",
-        "authors": [
-            "megix"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 13,
-        "internalName": "World4uFree",
-        "description": "High Quality Movie and TV Series",
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/World4uFree.cs3",
-        "name": "World4uFree"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=movierulzhd.best&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
-        "fileSize": 26873,
-        "status": 1,
-        "language": "hi",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 65,
-        "internalName": "Movierulzhd",
-        "description": "Includes: Hdmovie2, Animesaga",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Movierulzhd.cs3",
-        "name": "Movierulzhd"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=yomovies.rest&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
-        "fileSize": 15231,
-        "status": 1,
-        "language": "hi",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 28,
-        "internalName": "YomoviesProvider",
-        "description": "Includes: Watchomovies(NS*W), Max resolution is 720p in both extensions.",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/YomoviesProvider.cs3",
-        "name": "YomoviesProvider"
-    },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/AllMovieLandProvider/icon.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/LikDev-256/likdev256-tamil-providers",
-        "fileSize": 27420,
-        "status": 1,
-        "language": "hi",
-        "authors": [
-            "LikDev-256"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries",
-            "Cartoon"
-        ],
-        "version": 12,
-        "internalName": "AllMovieLandProvider",
-        "description": "Indian MultiLanguage Provider (Mostly Hindi)",
-        "url": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/builds/AllMovieLandProvider.cs3",
-        "name": "AllMovieLandProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=ww1.cinevez.mx&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/LikDev-256/likdev256-tamil-providers",
-        "fileSize": 11288,
-        "status": 1,
-        "language": "hi",
-        "authors": [
-            "darkdemon, likdev256"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "CinevezProvider",
-        "description": "This website support English/Hindi/Kannada/Malayalam/Tamil/Telugu",
-        "url": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/builds/CinevezProvider.cs3",
-        "name": "CinevezProvider"
-    },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/ShowFlixProvider/icon.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/LikDev-256/likdev256-tamil-providers",
-        "fileSize": 39365,
-        "status": 1,
-        "language": "ta",
-        "authors": [
-            "LikDev-256"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 29,
-        "internalName": "ShowFlixProvider",
-        "description": "HD Provider for all Indian Languages",
-        "url": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/builds/ShowFlixProvider.cs3",
-        "name": "ShowFlixProvider"
-    },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/UHDmoviesProvider/icon.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/LikDev-256/likdev256-tamil-providers",
-        "fileSize": 21427,
-        "status": 1,
-        "language": "hi",
-        "authors": [
-            "LikDev-256"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 3,
-        "internalName": "UHDmoviesProvider",
-        "description": "Indian Multi-language 4K Provider",
-        "url": "https://raw.githubusercontent.com/missionapp5000/plugins/refs/heads/main/UHDmoviesProvider.cs3",
-        "name": "UHDmoviesProvider"
-    },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/UHDmoviesProvider/icon.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/LikDev-256/likdev256-tamil-providers",
-        "fileSize": 21427,
-        "status": 1,
-        "language": "hi",
-        "authors": [
-            "LikDev-256"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 3,
-        "internalName": "BanglaPlex1",
-        "description": "Indian Multi-language 4K Provider",
-        "url": "https://raw.githubusercontent.com/missionapp5000/plugins/refs/heads/main/BanglaPlex.cs3",
-        "name": "BanglaPlex1"
     }
 ]
