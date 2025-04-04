@@ -375,5 +375,25 @@
         "description": "Indian Multi-language 4K Provider",
         "url": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/builds/UHDmoviesProvider.cs3",
         "name": "UHDmoviesProvider"
+    },
+        {
+        "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/UHDmoviesProvider/icon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/LikDev-256/likdev256-tamil-providers",
+        "fileSize": 21427,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "LikDev-256"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 3,
+        "internalName": "UHDmoviesProvider",
+        "description": "Indian Multi-language 4K Provider",
+        "url": "https://raw.githubusercontent.com/missionapp5000/plugins/refs/heads/main/BanglaPlex-release.cs3",
+        "name": "BanglaPlex"
     }
 ]
