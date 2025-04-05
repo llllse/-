@@ -227,9 +227,9 @@
             "Anime"
         ],
         "version": 57,
-        "internalName": "VegaMovies",
+        "internalName": "IPTV",
         "description": "Includes LuxMovies, Rogmovies",
         "url": "https://raw.githubusercontent.com/missionapp5000/customplugins/refs/heads/main/AllMovieLandProvider.cs3",
-        "name": "VegaMovies"
+        "name": "IPTV"
     }        
 ]
