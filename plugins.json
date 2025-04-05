@@ -229,7 +229,7 @@
         "version": 57,
         "internalName": "IPTV",
         "description": "Includes LuxMovies, Rogmovies",
-        "url": "https://raw.githubusercontent.com/missionapp5000/customplugins/refs/heads/main/AllMovieLandProvider.cs3",
+        "url": "https://raw.githubusercontent.com/missionapp5000/customplugins/refs/heads/main/IPTVPlayer.cs3",
         "name": "IPTV"
     }        
 ]
