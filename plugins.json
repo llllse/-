@@ -276,5 +276,28 @@
         "description": "One stop solution for Movies, Series, Anime, Livetv, AsianDrama and Torrents",
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
         "name": "CineStream1"
-    }                
+    },
+    {
+        "iconUrl": "https://i.ibb.co/SwQRhsn/20241016-074942.jpg",
+        "jarFileSize": 33776,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "fileSize": 9811,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "darkdemon",
+            "Dilip"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "Fivemovierulz",
+        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Fivemovierulz.jar",
+        "description": "Movies & Series",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Fivemovierulz.cs3",
+        "name": "Fivemovierulz"
+    }              
 ]
