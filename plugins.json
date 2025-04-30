@@ -278,26 +278,25 @@
         "name": "CineStream1"
     },
     {
-        "iconUrl": "https://i.ibb.co/SwQRhsn/20241016-074942.jpg",
-        "jarFileSize": 33776,
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/master/Movierulzhd/faviconV2.png",
+        "jarFileSize": 179977,
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 9811,
+        "fileSize": 34778,
         "status": 1,
         "language": "hi",
         "authors": [
-            "darkdemon",
-            "Dilip"
+            "Phisher98,hexated"
         ],
         "tvTypes": [
             "TvSeries",
             "Movie"
         ],
-        "version": 3,
-        "internalName": "Fivemovierulz",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Fivemovierulz.jar",
-        "description": "Movies & Series",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Fivemovierulz.cs3",
-        "name": "Fivemovierulz"
-    }              
+        "version": 138,
+        "internalName": "Movierulzhd",
+        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Movierulzhd.jar",
+        "description": "Includes: Hdmovie2,hdmovie6",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Movierulzhd.cs3",
+        "name": "Movierulzhd"
+    }
 ]
