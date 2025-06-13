@@ -14,10 +14,10 @@
             "TvSeries"
         ],
         "version": 16,
-        "internalName": "MPlayer",
+        "internalName": "MxplayerProvider",
         "description": "Netflix, PrimeVideo Content in Multiple Languages",
         "url": "https://github.com/missionapp5000/customplugins/raw/refs/heads/main/MPlayerProvider.cs3",
-        "name": "MPlayer"
+        "name": "MxplayerProvider"
     },
     {
         "iconUrl": "https://bollyflix-cdn.store/wp-content/uploads/2023/05/Bollyflix-movies.png",
