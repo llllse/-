@@ -1,0 +1,8 @@
+{
+  "name": "Bollywood Server",
+  "description": "Hindi and English",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/missionapp5000/plugins/refs/heads/main/plugins_xxx.json"
+  ]
+}
