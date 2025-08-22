@@ -1,754 +1,982 @@
 [
-        {
-        "iconUrl": "https://iosmirror.cc/img/nf2/icon_x192.png",
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=uncutmaza.cc&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 35544,
+        "repositoryUrl": "https://github.com/phisher98/CXXX",
+        "fileSize": 11212,
         "status": 1,
+        "language": "en",
         "authors": [
-            "Horis, megix",
-            "keyiflerolsun"
+            "Phisher98, megix"
         ],
         "tvTypes": [
-            "Movie",
-            "TvSeries"
+            "NSFW"
         ],
-        "version": 16,
-        "internalName": "MxplayerProvider",
-        "description": "Netflix, PrimeVideo Content in Multiple Languages",
-        "url": "https://github.com/missionapp5000/customplugins/raw/refs/heads/main/MPlayerProvider.cs3",
-        "name": "MxplayerProvider"
+        "version": 12,
+        "internalName": "actionviewphotography",
+        "description": "NSFW Search Videos",
+        "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/actionviewphotography.cs3",
+        "name": "actionviewphotography"
     },
     {
-        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/NetflixMirrorProvider/icon.png",
+        "iconUrl": "https://img.apstream.org/logo_aps.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 37998,
+        "repositoryUrl": "https://github.com/phisher98/CXXX",
+        "fileSize": 25493,
         "status": 1,
+        "language": "en",
         "authors": [
-            "Horis, megix",
-            "keyiflerolsun"
+            "Phisher98"
         ],
         "tvTypes": [
-            "Movie",
-            "TvSeries"
+            "NSFW"
         ],
-        "version": 21,
-        "internalName": "NetflixMirrorProvider",
-        "description": "Netflix, PrimeVideo Content in Multiple Languages",
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/NetflixMirrorProvider.cs3",
-        "name": "NetflixMirrorProvider"
+        "version": 6,
+        "internalName": "AllPornStream",
+        "description": "Porn Studio",
+        "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/AllPornStream.cs3",
+        "name": "AllPornStream"
     },
     {
-        "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/CNC%20Verse/icon.png",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=asianpinay.com&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-        "fileSize": 46857,
+        "repositoryUrl": "https://github.com/phisher98/CXXX",
+        "fileSize": 11440,
         "status": 1,
-        "language": "ta",
+        "language": "en",
         "authors": [
-            "NivinCNC"
+            "Phisher98"
         ],
         "tvTypes": [
-            "Movie",
-            "TvSeries"
+            "NSFW"
         ],
-        "version": 37,
-        "internalName": "CNC Verse",
-        "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages",
-        "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/CNC Verse.cs3",
-        "name": "CNC Verse"
+        "version": 3,
+        "internalName": "Asianpinay",
+        "description": "(VPN) Premium porn with 4K support",
+        "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/Asianpinay.cs3",
+        "name": "Asianpinay"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/master/Movierulzhd/faviconV2.png",
-        "jarFileSize": 250692,
+        "iconUrl": "https://www.google.com/s2/favicons?domain=cornhub.website&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 47212,
+        "repositoryUrl": "https://github.com/phisher98/CXXX",
+        "fileSize": 13576,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Stormunblessed",
+            "Jace",
+            "KillerDogeEmpire",
+            "Hexated",
+            "Coxju"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 2,
+        "internalName": "CornHubProvider",
+        "description": "Cornhub",
+        "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/CornHubProvider.cs3",
+        "name": "CornHubProvider"
+    },
+    {
+        "iconUrl": "https://shorts.desisins.com/wp-content/uploads/2023/04/cropped-favicon-2-32x32.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/CXXX",
+        "fileSize": 11597,
         "status": 1,
         "language": "hi",
         "authors": [
-            "Phisher98,hexated"
+            "rockhero1234"
         ],
         "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 146,
-        "internalName": "Movierulzhd",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Movierulzhd.jar",
-        "description": "Includes: Hdmovie2,hdmovie6",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Movierulzhd.cs3",
-        "name": "Movierulzhd"
-    },    {
-        "iconUrl": "https://cricfy.pro/wp-content/uploads/2024/11/cropped-cricfytv-2.png",
-        "jarFileSize": 178376,
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-        "fileSize": 43354,
-        "status": 1,
-        "language": "ta",
-        "authors": [
-            "NivinCNC"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 8,
-        "internalName": "CricifyProvider",
-        "jarUrl": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/CricifyProvider.jar",
-        "description": "Watch Live sports and TV channels",
-        "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/CricifyProvider.cs3",
-        "name": "CricifyProvider"
-    },
-    {
-        "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/DoFlixProvider/icon.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-        "fileSize": 36907,
-        "status": 1,
-        "language": "ta",
-        "authors": [
-            "NivinCNC"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 2,
-        "internalName": "DoFlixProvider",
-        "description": "DoFlix Provider for Movies and TV Series",
-        "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/DoFlixProvider.cs3",
-        "name": "DoFlixProvider"
-    },
-    {
-        "iconUrl": "https://images.dwncdn.net/images/t_app-icon-l/p/b0c9663c-0d61-4941-b12f-91c58c06189f/1137087733/hdo-box-logo",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-        "fileSize": 97614,
-        "status": 1,
-        "language": "ta",
-        "authors": [
-            "NivinCNC"
-        ],
-        "tvTypes": [
-            "Movies",
-            "TvSeries"
+            "NSFW"
         ],
         "version": 3,
-        "internalName": "HDOProvider",
-        "description": "HDO provider",
-        "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/HDOProvider.cs3",
-        "name": "HDOProvider"
+        "internalName": "Desisins",
+        "description": "18+ webseries clips",
+        "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/Desisins.cs3",
+        "name": "Desisins"
     },
     {
-        "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/MovieBoxProvider/icon.png",
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/main/eporner.ico",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-        "fileSize": 43626,
+        "repositoryUrl": "https://github.com/phisher98/CXXX",
+        "fileSize": 11270,
         "status": 1,
-        "language": "ta",
+        "language": "en",
         "authors": [
-            "NivinCNC"
+            "HindiProvider, megix"
         ],
         "tvTypes": [
-            "Movie",
-            "TvSeries"
+            "NSFW"
         ],
-        "version": 9,
-        "internalName": "MovieBoxProvider",
-        "description": "Multi Language Movies and Series Provider",
-        "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/MovieBoxProvider.cs3",
-        "name": "MovieBoxProvider"
+        "version": 11,
+        "internalName": "Eporner",
+        "description": "Eporner",
+        "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/Eporner.cs3",
+        "name": "Eporner"
     },
     {
-        "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/MovieBoxProvider/icon.png",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=freepornvideos.xxx&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-        "fileSize": 44544,
+        "repositoryUrl": "https://github.com/phisher98/CXXX",
+        "fileSize": 13063,
         "status": 1,
-        "language": "ta",
+        "language": "en",
         "authors": [
-            "NivinCNC"
+            "Phisher98"
         ],
         "tvTypes": [
-            "Movie",
-            "TvSeries"
+            "NSFW"
+        ],
+        "version": 4,
+        "internalName": "FreePornVideos",
+        "description": "Premium porn with 4K support",
+        "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/FreePornVideos.cs3",
+        "name": "FreePornVideos"
+    },
+    {
+        "iconUrl": "https://fxpornhd.com/wp-content/uploads/2024/06/logo-fxpornhd.com_.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/CXXX",
+        "fileSize": 10832,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Sora",
+            "keyiflerolsun",
+            "ramio23"
+        ],
+        "tvTypes": [
+            "NSFW"
         ],
         "version": 2,
-        "internalName": "MovieBoxProviderIN",
-        "description": "Multi Language Movies and Series Provider (IN)",
-        "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/MovieBoxProviderIN.cs3",
-        "name": "MovieBoxProviderIN"
+        "internalName": "FXPrnHD",
+        "description": "(VPN) Premium porn with 4K support",
+        "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/FXPrnHD.cs3",
+        "name": "FXPrnHD"
     },
     {
-        "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Rtally/icon.png",
+        "iconUrl": "https://happy2hub.eu/wp-content/uploads/2023/02/Logo-2x.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-        "fileSize": 12802,
+        "repositoryUrl": "https://github.com/phisher98/CXXX",
+        "fileSize": 11193,
         "status": 1,
-        "language": "ta",
+        "language": "en",
         "authors": [
-            "Redowan, NivinCNC"
+            "Phisher98"
         ],
         "tvTypes": [
-            "Movie",
-            "TvSeries",
-            "Anime",
-            "AnimeMovie",
-            "AsianDrama"
-        ],
-        "version": 15,
-        "internalName": "Rtally",
-        "description": "Movie and TV Series provider",
-        "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/Rtally.cs3",
-        "name": "Rtally"
-    },
-    {
-        "iconUrl": "https://play-lh.googleusercontent.com/7geBQBtW_yN70BU81Oi2SoZvYsj5VoYrI4FmUNdqWQlchtExJb7XE_1BQysGzgJ6mBU",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-        "fileSize": 35963,
-        "status": 1,
-        "language": "ta",
-        "authors": [
-            "NivinCNC"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries",
-            "Anime"
+            "NSFW"
         ],
         "version": 2,
-        "internalName": "StreamFlixProvider",
-        "description": "StreamFlix Multi Language Movies and Series Provider",
-        "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/StreamFlixProvider.cs3",
-        "name": "StreamFlixProvider"
+        "internalName": "Happy2hub",
+        "description": "Happy2Hub",
+        "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/Happy2hub.cs3",
+        "name": "Happy2hub"
     },
     {
-        "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/SunGoProvider/icon.png",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.hentaicity.com&sz=256",
+        "jarFileSize": 55518,
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-        "fileSize": 16290,
+        "repositoryUrl": "https://github.com/phisher98/CXXX",
+        "fileSize": 14857,
         "status": 1,
-        "language": "ta",
+        "language": "en",
         "authors": [
-            "NivinCNC"
+            "SIX"
         ],
         "tvTypes": [
-            "Live"
+            "NSFW"
+        ],
+        "version": 1,
+        "internalName": "HentaiCity",
+        "jarUrl": "https://raw.githubusercontent.com/phisher98/CXXX/builds/HentaiCity.jar",
+        "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/HentaiCity.cs3",
+        "name": "HentaiCity"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=hqporner.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/CXXX",
+        "fileSize": 14537,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Phishe"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 3,
+        "internalName": "Hqporner",
+        "description": "(VPN) Premium Porn with 4K support",
+        "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/Hqporner.cs3",
+        "name": "Hqporner"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=hstream.moe&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/CXXX",
+        "fileSize": 13879,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Phisher"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 2,
+        "internalName": "HStream",
+        "description": "Hentai (HAnime)",
+        "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/HStream.cs3",
+        "name": "HStream"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=uncutmaza.cc&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/CXXX",
+        "fileSize": 9601,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "phisher98"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 4,
+        "internalName": "InternetChicks",
+        "description": "InternetChicks",
+        "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/InternetChicks.cs3",
+        "name": "InternetChicks"
+    },
+    {
+        "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ixiporn.org&size=16",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/CXXX",
+        "fileSize": 10220,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Phisher98"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 16,
+        "internalName": "ixiporn",
+        "description": "IXI Porn",
+        "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/ixiporn.cs3",
+        "name": "ixiporn"
+    },
+    {
+        "iconUrl": "https://javhd.today/logo/javhd1.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/CXXX",
+        "fileSize": 13820,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "luck731"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 4,
+        "internalName": "JAVHd",
+        "description": "The Best Free JAV online, Free Download and Watching jav porn videos. Tons of hot jav censored,Japanese tube,Japanese sex online. Update everyday, javhd.today are waiting for you. Enjoy!",
+        "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/JAVHd.cs3",
+        "name": "JAVHd"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=jav.guru&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/CXXX",
+        "fileSize": 36287,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Phisher98"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 13,
+        "internalName": "JAVPoint",
+        "description": "JavGuru,Javgg,Javdoe,Javangel,JavEnglish",
+        "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/JAVPoint.cs3",
+        "name": "JAVPoint"
+    },
+    {
+        "iconUrl": "https://javtiful.com/images/logo/new_jt_logo.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/CXXX",
+        "fileSize": 11673,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Phisher98"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 2,
+        "internalName": "Javtiful",
+        "description": "Jav Porn",
+        "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/Javtiful.cs3",
+        "name": "Javtiful"
+    },
+    {
+        "iconUrl": "https://www.longvideos.xxx/img/favicon/apple-touch-icon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/CXXX",
+        "fileSize": 9778,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "megix"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 3,
+        "internalName": "Longvideos",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/Longvideos.cs3",
+        "name": "Longvideos"
+    },
+    {
+        "iconUrl": "http://mangoporn.net/wp-content/uploads/2024/07/mangoporn.net_.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/CXXX",
+        "fileSize": 17964,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "HindiProvider"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 3,
+        "internalName": "Mangoporn",
+        "description": "MangoPorn",
+        "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/Mangoporn.cs3",
+        "name": "Mangoporn"
+    },
+    {
+        "iconUrl": "https://missav.ws/missav/logo-square.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/CXXX",
+        "fileSize": 10099,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "luck731"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 8,
+        "internalName": "MissAV",
+        "description": "Best Japan AV porn site, free forever, high speed, no lag, over 100,000 videos, daily update, no ads while playing video.",
+        "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/MissAV.cs3",
+        "name": "MissAV"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=netflav.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/CXXX",
+        "fileSize": 14824,
+        "status": 1,
+        "authors": [
+            "anhdaden"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 2,
+        "internalName": "NetflavProvider",
+        "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/NetflavProvider.cs3",
+        "name": "NetflavProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=noodlemagazine.com/&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/CXXX",
+        "fileSize": 11134,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "KillerDogeEmpire, Coxju, megix"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 14,
+        "internalName": "NoodleMagazineProvider",
+        "description": "type .nofap in discord - Full Length",
+        "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/NoodleMagazineProvider.cs3",
+        "name": "NoodleMagazineProvider"
+    },
+    {
+        "iconUrl": "https://onlyjerk.net/wp-content/uploads/2024/01/apple-icon-180x180-1.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/CXXX",
+        "fileSize": 10640,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "megix"
+        ],
+        "tvTypes": [
+            "NSFW"
         ],
         "version": 5,
-        "internalName": "SunGoProvider",
-        "description": "Indian Live TV Provider",
-        "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/SunGoProvider.cs3",
-        "name": "SunGoProvider"
-    },    {
-        "iconUrl": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/refs/heads/master/Bollyflix/icon.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 24774,
-        "status": 1,
-        "language": "hi",
-        "authors": [
-            "megix"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "AsianDrama",
-            "Anime"
-        ],
-        "version": 21,
-        "internalName": "Bollyflix",
-        "description": "Movies and Series upto 4K",
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/Bollyflix.cs3",
-        "name": "Bollyflix"
+        "internalName": "Onlyjerk",
+        "description": "Onlyjerk",
+        "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/Onlyjerk.cs3",
+        "name": "Onlyjerk"
     },
     {
-        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/Cinemaluxe/icon.png",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=en.paradisehill.cc&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 20854,
-        "status": 1,
-        "language": "hi",
-        "authors": [
-            "megix"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 35,
-        "internalName": "Cinemaluxe",
-        "description": "Movies and Series upto 4K",
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/Cinemaluxe.cs3",
-        "name": "Cinemaluxe"
-    },
-    {
-        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.jpg",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 309868,
-        "status": 1,
-        "authors": [
-            "megix"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "AsianDrama",
-            "Anime",
-            "Torrent"
-        ],
-        "version": 199,
-        "internalName": "CineStream",
-        "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
-        "name": "CineStream"
-    },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/master/CinevezProvider/icon.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 11550,
-        "status": 1,
-        "language": "hi",
-        "authors": [
-            "megix"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 6,
-        "internalName": "CinevezProvider",
-        "description": "This website support Hindi/English/Kannada/Malayalam/Tamil/Telugu",
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CinevezProvider.cs3",
-        "name": "CinevezProvider"
-    },
-    {
-        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/Extractors/icon.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 39206,
-        "status": 1,
-        "authors": [
-            "megix"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "AsianDrama",
-            "Anime"
-        ],
-        "version": 67,
-        "internalName": "Extractors",
-        "description": "Must Install(For other extensions to work properly)",
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/Extractors.cs3",
-        "name": "Extractors"
-    },
-    {
-        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/GDIndex/icon.ico",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 15937,
+        "repositoryUrl": "https://github.com/phisher98/CXXX",
+        "fileSize": 11791,
         "status": 1,
         "language": "en",
         "authors": [
-            "Horis"
+            "Sora"
         ],
         "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 4,
-        "internalName": "GDIndex",
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/GDIndex.cs3",
-        "name": "GDIndex"
-    },
-    {
-        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/MoviesDrive/icon.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 25075,
-        "status": 1,
-        "language": "hi",
-        "authors": [
-            "megix"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "AsianDrama",
-            "Anime"
-        ],
-        "version": 22,
-        "internalName": "MoviesDrive",
-        "description": "High Quality Movies and TV Shows",
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/MoviesDrive.cs3",
-        "name": "MoviesDrive"
-    },
-    {
-        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/Moviesmod/icon.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 28569,
-        "status": 1,
-        "authors": [
-            "megix"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "AsianDrama",
-            "Anime"
-        ],
-        "version": 27,
-        "internalName": "Moviesmod",
-        "description": "Includes Topmovies",
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/Moviesmod.cs3",
-        "name": "Moviesmod"
-    },
-    {
-        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/NetflixMirrorProvider/icon.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 45121,
-        "status": 1,
-        "authors": [
-            "megix"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries",
-            "AsianDrama",
-            "Anime"
-        ],
-        "version": 29,
-        "internalName": "NetflixMirrorProvider",
-        "description": "Netflix, PrimeVideo, JioHotstar(Hotstar, Disney, Paramount, HBO, Peacock) Content in Multiple Languages",
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/NetflixMirrorProvider.cs3",
-        "name": "NetflixMirrorProvider"
-    },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/master/OnlineMoviesHinditProvider/icon.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 10874,
-        "status": 1,
-        "language": "hi",
-        "authors": [
-            "megix"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 6,
-        "internalName": "OnlineMoviesHinditProvider",
-        "description": "Use VPN",
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/OnlineMoviesHinditProvider.cs3",
-        "name": "OnlineMoviesHinditProvider"
-    },    {
-        "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/AllMovieLandProvider/icon.png",
-        "jarFileSize": 121864,
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 27829,
-        "status": 1,
-        "language": "hi",
-        "authors": [
-            "Phisher98"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries",
-            "Cartoon"
-        ],
-        "version": 16,
-        "internalName": "AllMovieLandProvider",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AllMovieLandProvider.jar",
-        "description": "Indian MultiLanguage Provider (Mostly Hindi)",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AllMovieLandProvider.cs3",
-        "name": "AllMovieLandProvider"
-    },    {
-        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/daddylive.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 21644,
-        "status": 1,
-        "authors": [
-            "Phisher98"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 6,
-        "internalName": "DaddyLive",
-        "description": "Indian TV",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/DaddyLive.cs3",
-        "name": "DaddyLive"
-    },    {
-        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://desicinemas.to&size=%size%",
-        "jarFileSize": 156245,
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 28812,
-        "status": 1,
-        "language": "hi",
-        "authors": [
-            "Phisher98"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 4,
-        "internalName": "Desicinemas",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Desicinemas.jar",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Desicinemas.cs3",
-        "name": "Desicinemas"
-    },    {
-        "iconUrl": "https://i.ibb.co/SwQRhsn/20241016-074942.jpg",
-        "jarFileSize": 33776,
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 9811,
-        "status": 1,
-        "language": "hi",
-        "authors": [
-            "darkdemon",
-            "Dilip"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 3,
-        "internalName": "Fivemovierulz",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Fivemovierulz.jar",
-        "description": "Movies & Series",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Fivemovierulz.cs3",
-        "name": "Fivemovierulz"
-    },    {
-        "iconUrl": "https://www.freepnglogos.com/uploads/tv-png/tv-png-box-television-set-cable-screen-icon-31.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 21427,
-        "status": 1,
-        "authors": [
-            "Phisher98"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 6,
-        "internalName": "IndianTVProvider",
-        "description": "Indian TV",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/IndianTVProvider.cs3",
-        "name": "IndianTVProvider"
-    },    {
-        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/IPTV.png",
-        "jarFileSize": 73061,
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 17976,
-        "status": 1,
-        "language": "hi",
-        "authors": [
-            "Phisher98,Adippe"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 6,
-        "internalName": "IPTVPlayer",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/IPTVPlayer.jar",
-        "description": "IPTV Player",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/IPTVPlayer.cs3",
-        "name": "IPTVPlayer"
-    },    {
-        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/streamflare.png",
-        "jarFileSize": 132251,
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 30493,
-        "status": 1,
-        "language": "hi",
-        "authors": [
-            "Phisher98"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "TvSeries",
-            "Anime",
-            "Movie",
-            "Cartoon",
-            "AnimeMovie"
+            "NSFW"
         ],
         "version": 1,
-        "internalName": "iStreamFlare",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/iStreamFlare.jar",
-        "description": "Movies/Series/Anime",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/iStreamFlare.cs3",
-        "name": "iStreamFlare"
+        "internalName": "Paradisehill",
+        "description": "Series porn (use VPN if links not working)",
+        "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/Paradisehill.cs3",
+        "name": "Paradisehill"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/jellyfin.png",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=tube.perverzija.com&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 59437,
+        "repositoryUrl": "https://github.com/phisher98/CXXX",
+        "fileSize": 14169,
         "status": 1,
         "language": "en",
         "authors": [
-            "Phisher98"
+            "coxju, megix"
         ],
         "tvTypes": [
-            "AsianDrama",
-            "TvSeries",
-            "Anime",
-            "Movie",
-            "Cartoon",
-            "AnimeMovie"
+            "NSFW"
         ],
-        "version": 3,
-        "internalName": "Jellyfin",
-        "description": "Jellyfin is a Free Software Media System that puts you in control of managing and streaming your media",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Jellyfin.cs3",
-        "name": "Jellyfin"
-    },    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.mxplayer.in&sz=%size%",
-        "jarFileSize": 494068,
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 88921,
-        "status": 1,
-        "language": "hi",
-        "authors": [
-            "Phisher98"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "MPlayerProvider",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MPlayerProvider.jar",
-        "description": "Indian Movies/Series/Kdrama(Hindi Dubbed)",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MPlayerProvider.cs3",
-        "name": "MPlayerProvider"
+        "version": 6,
+        "internalName": "Perverzija",
+        "description": "Contains all the videos from Perverzija",
+        "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/Perverzija.cs3",
+        "name": "Perverzija"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/MultiMoviesProvider/icon.png",
-        "jarFileSize": 152569,
+        "iconUrl": "https://www.porn4fans.com/favicon.ico",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 32782,
+        "repositoryUrl": "https://github.com/phisher98/CXXX",
+        "fileSize": 11203,
         "status": 1,
-        "language": "hi",
+        "language": "en",
         "authors": [
-            "Phisher98"
+            "megix"
         ],
         "tvTypes": [
-            "Movie",
-            "TvSeries",
-            "Anime"
+            "NSFW"
         ],
-        "version": 42,
-        "internalName": "MultiMoviesProvider",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MultiMoviesProvider.jar",
-        "description": "Indian Multi-language HD Provider",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MultiMoviesProvider.cs3",
-        "name": "MultiMoviesProvider"
-    },    {
-        "iconUrl": "https://ownfmx.com/assets/favicon/favicon-32x32.png",
-        "jarFileSize": 28702,
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 8429,
-        "status": 1,
-        "language": "hi",
-        "authors": [
-            "Dilip"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 2,
-        "internalName": "Ownfmx",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Ownfmx.jar",
-        "description": "movies and series",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Ownfmx.cs3",
-        "name": "Ownfmx"
-    },    {
-        "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/ShowFlixProvider/icon.png",
-        "jarFileSize": 330498,
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 62639,
-        "status": 1,
-        "language": "hi",
-        "authors": [
-            "LikDev-256,Phisher98"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 10,
-        "internalName": "ShowFlixProvider",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/ShowFlixProvider.jar",
-        "description": "HD Provider for all Indian Languages",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/ShowFlixProvider.cs3",
-        "name": "ShowFlixProvider"
+        "version": 4,
+        "internalName": "Porn4fans",
+        "description": "Porn4fans - Onlyfans Content",
+        "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/Porn4fans.cs3",
+        "name": "Porn4fans"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/master/Telugumv/faviconV2.png",
-        "jarFileSize": 79757,
+        "iconUrl": "https://www.google.com/s2/favicons?domain=pornhits.com&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 17179,
+        "repositoryUrl": "https://github.com/phisher98/CXXX",
+        "fileSize": 12798,
         "status": 1,
-        "language": "hi",
+        "language": "en",
         "authors": [
-            "Phisher98"
+            "KillerDogeEmpire, Coxju"
         ],
         "tvTypes": [
-            "Movie,TvSeries"
+            "NSFW"
         ],
         "version": 8,
-        "internalName": "Streamblasters",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Streamblasters.jar",
-        "description": "Streamblasters Multi Language",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Streamblasters.cs3",
-        "name": "Streamblasters"
+        "internalName": "PornHits",
+        "description": "Pornhits",
+        "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/PornHits.cs3",
+        "name": "PornHits"
     },
     {
-        "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
+        "iconUrl": "https://imgur.com/download/bF7P7os/",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 762696,
+        "repositoryUrl": "https://github.com/phisher98/CXXX",
+        "fileSize": 11109,
         "status": 1,
         "language": "en",
         "authors": [
-            "Phisher98",
-            "Hexated"
+            "luck731"
         ],
         "tvTypes": [
-            "AsianDrama",
-            "TvSeries",
-            "Anime",
-            "Movie",
-            "Cartoon",
-            "AnimeMovie"
+            "NSFW"
         ],
-        "version": 373,
-        "internalName": "StreamPlay",
-        "description": "#1 best extention based on MultiAPI",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
-        "name": "StreamPlay"
+        "version": 8,
+        "internalName": "Pornhoarder",
+        "description": "Pornhoarder",
+        "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/Pornhoarder.cs3",
+        "name": "Pornhoarder"
+    },
+    {
+        "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://pornken.com&size=16",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/CXXX",
+        "fileSize": 12927,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Coxju"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 5,
+        "internalName": "Pornken",
+        "description": "We Provide Huge Colocation of Hindi Porn (Uncut) Web Series",
+        "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/Pornken.cs3",
+        "name": "Pornken"
+    },
+    {
+        "iconUrl": "https://pornmz.com/wp-content/uploads/2021/03/PornMZ.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/CXXX",
+        "fileSize": 9356,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "megix"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 2,
+        "internalName": "Pornmz",
+        "description": "Pornmz",
+        "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/Pornmz.cs3",
+        "name": "Pornmz"
+    },
+    {
+        "iconUrl": "https://pornobae.com/images/logo-new.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/CXXX",
+        "fileSize": 10751,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "HindiProvider"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 2,
+        "internalName": "Pornobae",
+        "description": "Pornobae",
+        "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/Pornobae.cs3",
+        "name": "Pornobae"
+    },
+    {
+        "iconUrl": "https://pornone.com/favicon.ico",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/CXXX",
+        "fileSize": 10125,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "luck731"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 3,
+        "internalName": "PornOne",
+        "description": "Free Porn & HD Porno Videos in full length! Every minute new porn video for download and streaming. Tons of the Best XXX Movies daily from top porno tube PornOne.",
+        "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/PornOne.cs3",
+        "name": "PornOne"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.porntrex.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/CXXX",
+        "fileSize": 12118,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Coxju"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 3,
+        "internalName": "Porntrex",
+        "description": "Porntrex",
+        "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/Porntrex.cs3",
+        "name": "Porntrex"
+    },
+    {
+        "iconUrl": "https://sextb.net/images/logo.png?v=1",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/CXXX",
+        "fileSize": 11669,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "luck731"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 2,
+        "internalName": "Sextb",
+        "description": "The Best Free JAV online, JAV DVD online, Stream JAV Online High Quality always updated daily.",
+        "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/Sextb.cs3",
+        "name": "Sextb"
+    },
+    {
+        "iconUrl": "https://logos-world.net/wp-content/uploads/2023/01/SpankBang-Logo.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/CXXX",
+        "fileSize": 10189,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Phisher98"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 10,
+        "internalName": "spankbang",
+        "description": "Spankbang",
+        "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/spankbang.cs3",
+        "name": "spankbang"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=supjav.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/CXXX",
+        "fileSize": 14591,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Phisher98"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 5,
+        "internalName": "SuperJav",
+        "description": "JAV SuperJav",
+        "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/SuperJav.cs3",
+        "name": "SuperJav"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=sxyprn.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/CXXX",
+        "fileSize": 11925,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Coxju, megix"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 5,
+        "internalName": "SxyPrn",
+        "description": "sxyprn",
+        "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/SxyPrn.cs3",
+        "name": "SxyPrn"
+    },
+    {
+        "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://tellyhd.skin&size=16",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/CXXX",
+        "fileSize": 16719,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "Phisher98"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 25,
+        "internalName": "TollyPro",
+        "description": "TollyPro Jav,18+ webseries",
+        "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/TollyPro.cs3",
+        "name": "TollyPro"
+    },
+    {
+        "iconUrl": "https://pbs.twimg.com/profile_images/1054618246551298048/Dkj4DQSt_400x400.jpg",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/CXXX",
+        "fileSize": 9059,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "megix"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 2,
+        "internalName": "TrendyPorn",
+        "description": "TrendyPorn",
+        "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/TrendyPorn.cs3",
+        "name": "TrendyPorn"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=uncutmaza.cc&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/CXXX",
+        "fileSize": 9040,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "rockhero1234"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 2,
+        "internalName": "Uncut99",
+        "description": "We Provide Huge Colocation of Hindi Porn (Uncut) Web Series",
+        "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/Uncut99.cs3",
+        "name": "Uncut99"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=uncutmaza.cc&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/CXXX",
+        "fileSize": 10107,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "Coxju"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 8,
+        "internalName": "UncutMaza",
+        "description": "We Provide Huge Colocation of Hindi Porn (Uncut) Web Series",
+        "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/UncutMaza.cs3",
+        "name": "UncutMaza"
+    },
+    {
+        "iconUrl": "https://findbestporno.com/public/uploads/image/2021/8/WhoresHub.jpg",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/CXXX",
+        "fileSize": 9557,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "megix"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 2,
+        "internalName": "Whoreshub",
+        "description": "Whoreshub",
+        "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/Whoreshub.cs3",
+        "name": "Whoreshub"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://vi.xhspot.com&sz=256",
+        "jarFileSize": 128523,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/CXXX",
+        "fileSize": 26840,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "SIX"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 1,
+        "internalName": "Xhamster",
+        "jarUrl": "https://raw.githubusercontent.com/phisher98/CXXX/builds/Xhamster.jar",
+        "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/Xhamster.cs3",
+        "name": "Xhamster"
+    },
+    {
+        "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://xmaza.net&size=16",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/CXXX",
+        "fileSize": 9195,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Phisher98"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 16,
+        "internalName": "Xmaza",
+        "description": "Indian 18+ Web Series",
+        "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/Xmaza.cs3",
+        "name": "Xmaza"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://xnhau.im&sz=256",
+        "jarFileSize": 83888,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/CXXX",
+        "fileSize": 20979,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "SIX"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 1,
+        "internalName": "Xnhau",
+        "jarUrl": "https://raw.githubusercontent.com/phisher98/CXXX/builds/Xnhau.jar",
+        "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/Xnhau.cs3",
+        "name": "Xnhau"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.xnxx.com&sz=256",
+        "jarFileSize": 82467,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/CXXX",
+        "fileSize": 22651,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "SIX"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 1,
+        "internalName": "XNXX",
+        "jarUrl": "https://raw.githubusercontent.com/phisher98/CXXX/builds/XNXX.jar",
+        "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/XNXX.cs3",
+        "name": "XNXX"
+    },
+    {
+        "iconUrl": "https://xprimehub.vip/wp-content/uploads/2021/10/Logo.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/CXXX",
+        "fileSize": 18637,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "Phisher98"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 3,
+        "internalName": "XPrimeHub",
+        "description": "Indian 18+ WebSeries",
+        "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/XPrimeHub.cs3",
+        "name": "XPrimeHub"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://xtapes.to&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/CXXX",
+        "fileSize": 11559,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "phisher98"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 7,
+        "internalName": "Xtapes",
+        "description": "Xtapes",
+        "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/Xtapes.cs3",
+        "name": "Xtapes"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.xvideos.com&sz=256",
+        "jarFileSize": 46322,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/CXXX",
+        "fileSize": 14155,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "SIX"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 1,
+        "internalName": "Xvideos",
+        "jarUrl": "https://raw.githubusercontent.com/phisher98/CXXX/builds/Xvideos.jar",
+        "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/Xvideos.cs3",
+        "name": "Xvideos"
+    },
+    {
+        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1xfGH3Q2FVINtuDKrS8FBP8uP2AHbKBxpeQ&s",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/CXXX",
+        "fileSize": 9332,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "megix"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 7,
+        "internalName": "YesPornPlease",
+        "description": "YesPornPlease",
+        "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/YesPornPlease.cs3",
+        "name": "YesPornPlease"
+    },    {
+        "iconUrl": "https://9kmovies.claims/m/wp-content/uploads/2019/08/9kmovies.ico",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/redowan99/Redowan-CloudStream",
+        "fileSize": 12633,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "salman731",
+            "Dilip"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "NSFW"
+        ],
+        "version": 7,
+        "internalName": "9kMovies",
+        "description": "Included:10HitMovies",
+        "url": "https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/builds/9kMovies.cs3",
+        "name": "9kMovies"
     },
 ]
