@@ -80,7 +80,8 @@
         "description": "Includes: Hdmovie2,hdmovie6",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Movierulzhd.cs3",
         "name": "Movierulzhd"
-    },    {
+    },    
+        {
         "iconUrl": "https://cricfy.pro/wp-content/uploads/2024/11/cropped-cricfytv-2.png",
         "jarFileSize": 178376,
         "apiVersion": 1,
