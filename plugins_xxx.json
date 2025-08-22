@@ -969,8 +969,6 @@
             "Dilip"
         ],
         "tvTypes": [
-            "Movie",
-            "TvSeries",
             "NSFW"
         ],
         "version": 7,
@@ -978,5 +976,5 @@
         "description": "Included:10HitMovies",
         "url": "https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/builds/9kMovies.cs3",
         "name": "9kMovies"
-    },
+    }
 ]
