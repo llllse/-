@@ -3,6 +3,6 @@
   "description": "Hindi and English",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/missionapp5000/plugins/refs/heads/main/plugins_xxx.json"
+    "https://raw.githubusercontent.com/Mnyomi2/test/cd26aa098db1b89354015e1327a8436e371f74e0/anime_index.json"
   ]
 }
